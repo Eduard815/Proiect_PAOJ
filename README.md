@@ -53,7 +53,7 @@ Aplicatie bancara de tip consola ce permite gestionarea clientilor, conturilor b
 20. Repay credit - rambursarea creditului
 
 ## Operatii CRUD
-Aceste operatii au fost implementate pentru a intregi functionalitatile aplicatiei in raport cu baza de date. Celelalte operatii CRUD se regasesc deja in prima parte a functionalitatilor implementate
+Aceste operatii au fost implementate pentru a intregi functionalitatile aplicatiei in raport cu baza de date. Celelalte operatii CRUD se regasesc deja in prima parte a functionalitatilor implementate 
 21. Update client - actualizarea datelor unui client
 22. Delete client - stergerea unui client din sistem
 23. Update account - actualizarea unui cont existent
