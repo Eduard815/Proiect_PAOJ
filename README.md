@@ -54,13 +54,4 @@ Aplicatie bancara de tip consola ce permite gestionarea clientilor, conturilor b
 
 ## Operatii CRUD
 Aceste operatii au fost implementate pentru a intregi functionalitatile aplicatiei in raport cu baza de date. Celelalte operatii CRUD se regasesc deja in prima parte a functionalitatilor implementate.
-21. Update client - actualizarea datelor unui client
-22. Delete client - stergerea unui client din sistem
-23. Update account - actualizarea unui cont existent
-24. Delete account - stergerea unui cont existent
-25. Update transaction - actualizarea unei tranzactii
-26. Delete transaction - stergerea unei tranzactii
-27. Update notification - actualizarea unei notificari
-28. Delete notification - stergerea unei notificari
-29. Update card - actualizarea unui card
-30. Delete card - stergerea unui card
+
